@@ -1,7 +1,7 @@
 # Scala Examples
 
 
-## Standalong programs in Scala
+## Standalone programs in Scala
 
 `hello/` contains two examples to create standalone Scala programs
 
