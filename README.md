@@ -23,12 +23,12 @@ To build:
     cd proj/
 	sbt compile
 	
-To run any code
+To run any main class
 
-	sbt run-main Hello
+	sbt "run-main Hello"
+	sbt "run-main oops.engine"
 	
 You may also generate an eclipse project, and import it into Eclipse
 
     sbt eclipse
 	
-
