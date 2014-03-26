@@ -1,4 +1,9 @@
-# Scala Examples
+# Scala Talk Examples
+
+The repository contains the code examples discussed in the following presentation.
+
+ [Introduction to Scala](http://tuxdna.in/files/presentations/scala-intro.html)
+
 
 ## Requirements
 
